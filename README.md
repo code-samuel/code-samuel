@@ -10,7 +10,6 @@ Currently focused on: Linux • Networking • Systems Administration • Backen
 > Systems Analysis and Development student | Linux & Networking enthusiast
 > Training hard in boxing and building solid systems on the terminal
 > Exploring network protocols, systems administration, and backend development
-> Solving complex problems with the obsession of a Gotham detective
 > "Float like a butterfly, sting like a bee"
 ```
 
