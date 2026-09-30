@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=code-samuel&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="">
 
 ### Hello!
 Currently focused on: Linux • Networking • Systems Administration • Backend Development
