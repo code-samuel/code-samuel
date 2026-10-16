@@ -14,11 +14,11 @@ Currently focused on: Linux • Networking • Systems Administration • Backen
 <br clear="left"/>
 
 ## Streak 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=code-samuel&theme=algolia" alt="" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=code-samuel&theme=ayu-mirage" alt="" /></p>
 
 
 ## Top Languages
-<p align="center"><img src="https://ghstats.dev/api/langs?username=code-samuel&max_langs=12&layout=grid" alt="" /></p>
+<p align="center"><img src="https://ghstats.dev/api/langs?username=code-samuel&theme=ayu&max_langs=12&layout=compact" alt="" /></p>
 
 
 
