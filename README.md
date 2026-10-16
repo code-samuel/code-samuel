@@ -18,7 +18,7 @@ Currently focused on: Linux • Networking • Systems Administration • Backen
 
 
 ## Top Languages
-<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=code-samuel&layout=compact&langs_count=10&theme=ayu-mirage" alt="" /></p>" alt="" /></p>
+<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=code-samuel&layout=compact&langs_count=10&theme=ayu-mirage" alt="" /></p>
 
 
 
